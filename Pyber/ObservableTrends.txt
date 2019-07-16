@@ -1,0 +1,6 @@
+Observable trends based on the data:
+
+1. There are much more drivers in the Urban, so as rides, but the average fares are much lower.
+2. Suburban has less drivers than the Urban, but more than the Rutal. Both rides and fares are in the middle as well.
+3. Rural has the least drivers and rides, but the average fares are higher than the others.
+
