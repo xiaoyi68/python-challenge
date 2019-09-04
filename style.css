@@ -1,0 +1,215 @@
+/* Format Navigation section */
+
+.navbar{
+    background-color: white
+}
+
+/*Latitude*/
+.Navigation .navbar-brand{
+    color:white;
+    font-weight: bold;
+    background-color: rgb(11, 194, 185);
+    padding:inherit;
+    margin-left:10px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+/* Hover at Plot, background color changes */
+.nav-link:hover{
+    background-color: rgb(163, 159, 159);
+}
+
+
+
+/* Format Menu*/
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(168, 165, 165);
+}
+
+/* Format body section */
+body{
+    background-color: rgb(173, 173, 173);
+}
+
+
+
+/* Format font */
+
+.title{
+    color:rgb(11, 173, 166);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top:20px;
+}
+
+
+p{
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px; 
+   }
+
+
+.table{
+    font-size: 14px;
+}
+
+/* Images related*/
+.active, .panel:hover{
+    border-color:rgb(13, 145, 138);
+    border-style: solid; 
+    
+}
+
+img {
+    width:100% !important;
+    height: 100% !important;
+}
+.visual{
+    width:30% !important;
+    height:55% !important;
+}
+
+/* Box Class */
+.box {
+    margin-top: 60px; 
+    margin-bottom: 60px; 
+    padding: 10px 20px 15px; 
+    color:black;
+    background-color: white; 
+
+  }
+
+
+/* Footer */
+footer{
+    border-top-width: 4px; 
+    border-top-color: rgb(13, 156, 149);
+    border-top-style: solid;
+    background-color: grey;
+
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:white;
+
+    left:0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    min-height: 55px;  
+    padding-top: 12px; 
+}
+
+
+=======
+/* Format Navigation section */
+
+.navbar{
+    background-color: white
+}
+
+/*Latitude*/
+.Navigation .navbar-brand{
+    color:white;
+    font-weight: bold;
+    background-color: rgb(10, 153, 146);
+    padding:inherit;
+    margin-left:70px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+/* Hover at Plot, background color changes */
+.nav-link:hover{
+    background-color: rgb(173, 172, 172);
+}
+
+
+
+/* Format Menu*/
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(177, 175, 175);
+}
+
+/* Format body section */
+body{
+    background-color: rgb(173, 173, 173);
+}
+
+
+
+/* Format font */
+
+.title{
+    color:#0BADA6;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top:20px;
+}
+
+
+p{
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px; 
+   }
+
+
+.table{
+    font-size: 14px;
+}
+
+/* Images related*/
+.active, .panel:hover{
+    border-color:rgb(11, 150, 143);
+    border-style: solid; 
+    
+}
+
+img {
+    width:100% !important;
+    height: 100% !important;
+}
+.visual{
+    width:30% !important;
+    height:55% !important;
+}
+
+/* Box Class */
+.box {
+    margin-top: 60px; 
+    margin-bottom: 60px; 
+    padding: 10px 20px 15px; 
+    color:black;
+    background-color: white; 
+
+  }
+
+
+/* Footer */
+footer{
+    border-top-width: 4px; 
+    border-top-color: rgb(7, 161, 154);
+    border-top-style: solid;
+    background-color: grey;
+
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:white;
+
+    left:0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    min-height: 55px;  
+    padding-top: 12px; 
+}
