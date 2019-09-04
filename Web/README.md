@@ -1,3 +1,18 @@
+* A [landing page](#landing-page) containing:
+index.html
+* Four [visualization pages](#visualization-pages), each with:
+cloud.html
+humidity.html
+max_temperature.html
+index.html
+* A ["Comparisons" page](#comparisons-page) that:
+comparison.html
+* A ["Data" page](#data-page) that:
+data.html
+
+
+
+
 # Unit 11 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background
